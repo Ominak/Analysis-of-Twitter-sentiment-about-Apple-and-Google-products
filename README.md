@@ -218,6 +218,6 @@ LIME ensures that sentiment analysis models are interpretable and explainable, a
 ### Group Members
 - Catherine Gachiri
 - Tanveer Mbitiru
-- Kelvin Ominak
+- Kelvin Omina
 - Cindy Achieng
 - James Ouma
